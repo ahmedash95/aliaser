@@ -20,7 +20,7 @@ source ~/.bashrc
 now every thing should work perfect. lets try to write **aliaser** the output should be something like 
 ```bash
 please use set or get command
-set example : aliaser set listHome = 'ls ~'
+set example : aliaser set listHome 'ls ~'
 get example : aliaser set listHome
 ```
 

@@ -10,7 +10,7 @@ fi
 # if no parameter then exit
 if [[ $# -eq 0 ]] ; then
     echo 'please use set or get command'
-    echo "set example : aliaser set listHome = 'ls ~'"
+    echo "set example : aliaser set listHome 'ls ~'"
     echo "get example : aliaser set listHome"
     exit 0
 fi
