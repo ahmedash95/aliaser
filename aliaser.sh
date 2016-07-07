@@ -11,7 +11,7 @@ fi
 if [[ $# -eq 0 ]] ; then
     echo 'please use set or get command'
     echo "set example : aliaser set listHome 'ls ~'"
-    echo "get example : aliaser set listHome"
+    echo "get example : aliaser get listHome"
     exit 0
 fi
 
