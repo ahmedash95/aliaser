@@ -21,7 +21,7 @@ now every thing should work perfect. lets try to write **aliaser** the output sh
 ```bash
 please use set or get command
 set example : aliaser set listHome 'ls ~'
-get example : aliaser set listHome
+get example : aliaser get listHome
 ```
 
 ## How to use ? 
